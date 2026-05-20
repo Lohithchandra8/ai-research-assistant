@@ -1,7 +1,7 @@
 AI Research Assistant 
 
 An AI-powered research assistant that lets you upload PDF papers and ask questions about them using RAG (Retrieval Augmented Generation).
-Live Demo: https://ai-research-assistant-snowy-beta.vercel.app
+-Live Demo: https://ai-research-assistant-snowy-beta.vercel.app
 
 Features:
 - Upload any PDF research paper
@@ -12,13 +12,13 @@ Features:
 
 Tech Stack:
 
-Frontend - React 
-Backend - FastAPI 
-AI Framework - LangChain 
-Embeddings - OpenAI text-embedding-3-small 
-LLM - GPT-4o-mini 
-Vector DB - ChromaDB 
-Frontend Deploy - Vercel 
-Backend Deploy - Render 
+-Frontend - React 
+-Backend - FastAPI 
+-AI Framework - LangChain 
+-Embeddings - OpenAI text-embedding-3-small 
+-LLM - GPT-4o-mini 
+-Vector DB - ChromaDB 
+-Frontend Deploy - Vercel 
+-Backend Deploy - Render 
 
 
