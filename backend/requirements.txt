@@ -9,3 +9,4 @@ chromadb==0.5.0
 pymupdf==1.23.26
 python-dotenv==1.0.1
 pydantic==2.6.3
+httpx==0.26.0
