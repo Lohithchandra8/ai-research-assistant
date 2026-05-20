@@ -5,7 +5,7 @@ langchain==0.1.12
 langchain-community==0.0.28
 langchain-openai==0.0.8
 openai==1.14.0
-chromadb==0.4.24
+chromadb==0.5.0
 pymupdf==1.23.26
 python-dotenv==1.0.1
 pydantic==2.6.3
